@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+body{
+    background-color: #182227;
+}
+.nav-link{
+    color: #ffffff;
+}
+.nav-link:hover{
+    color: #f67d00;
+}
+.btn-primary{
+    background-color: #f67d00;
+    border: #dd6f00
+}
+.btn-primary:hover{
+    background-color: #bb6510;
+}
+.card{
+    background-color: #00000000;
+    border-color: #f67d00;
+}
