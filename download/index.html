@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en" class="h-100">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="Jose Rivas, and Nebula Atom contributors">
+        <title>Download | Nebula Atom Framework</title>
+        <link rel="shortcut icon" href="../assets/images/favicon.ico" type="image/x-icon">
+
+        <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../assets/css/main.css" rel="stylesheet">
+    </head>
+    <body class="d-flex flex-column h-100"">
+
+        <header>
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-md bg-ligth">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">
+                        <img src="../assets/images/logo.png" alt="Logo" width="64">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item">
+                                <a class="nav-link" href="../">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="../download/">Download</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="../docs/">Docs</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="../development/">Development</a>
+                            </li>
+                        </ul>
+                        <form class="d-flex">
+                            <a class="nav-link" target="_blank" href="https://github.com/nebulaatom/nebulaatom">
+                                <img src="../assets/images/github-logo.png" alt="Github Logo" width="32">
+                            </a>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <!-- Content -->
+        <main class="flex-shrink-0">
+            
+            <div class="container col-xxl-8 px-4">
+                <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+                    <div class="col-10 col-sm-8 col-lg-6">
+                        <h1 class="display-4 fw-bold lh-1 mb-3">v0.10.12</h1>
+                    </div>
+                    <div class="col-lg-6">
+                        <h3 class="lh-1 mb-3">Stable version</h3>
+                        <p class="lead">
+                            Donwload the latest stable version.
+                        </p>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                            <a href="https://github.com/nebulaatom/nebulaatom/releases/tag/v0.10.12" class="btn btn-primary btn-lg px-4 me-md-2">Download</a>
+                            <a href="../docs" class="btn btn-outline-secondary btn-lg px-4">Docs</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container col-xxl-8 px-4">
+                <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+                    <div class="col-10 col-sm-8 col-lg-6">
+                        <h1 class="display-4 fw-bold lh-1 mb-3">v0.10.13</h1>
+                    </div>
+                    <div class="col-lg-6">
+                        <h3 class="lh-1 mb-3">Development version</h3>
+                        <p class="lead">
+                            Donwload the latest Development version.
+                        </p>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                            <a href="https://github.com/nebulaatom/nebulaatom/releases/tag/v0.10.13" class="btn btn-primary btn-lg px-4 me-md-2">Download</a>
+                            <a href="../docs" class="btn btn-outline-secondary btn-lg px-4">Docs</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container col-xxl-8 px-4">
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <p>
+                        View all releases 
+                        <a href="https://github.com/nebulaatom/nebulaatom/releases">View</a>
+                    </p>
+                </div>
+            </div>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer mt-auto py-3">
+            <div class="container">
+                <span class="text-muted">&copy; <span id="current-year" class="text-muted"></span> Nebula Atom Framework.</span>
+                <script>
+                    let date = new Date;
+                    document.querySelector('#current-year').innerHTML = date.getFullYear();
+                </script>
+            </div>
+        </footer>
+        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
+
