@@ -6,6 +6,9 @@
 body{
     background-color: #182227;
 }
+.text-primary{
+    color: #f67d00 !important;
+}
 .nav-link{
     color: #ffffff;
 }
