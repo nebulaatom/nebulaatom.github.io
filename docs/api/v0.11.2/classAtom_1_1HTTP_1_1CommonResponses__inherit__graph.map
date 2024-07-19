@@ -1,0 +1,11 @@
+<map id="Atom::HTTP::CommonResponses" name="Atom::HTTP::CommonResponses">
+<area shape="rect" id="node1" title=" " alt="" coords="213,144,449,171"/>
+<area shape="rect" id="node3" href="$classAtom_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="497,144,709,171"/>
+<area shape="rect" id="node2" href="$classAtom_1_1HTTP_1_1Request.html" title=" " alt="" coords="5,144,165,171"/>
+<area shape="rect" id="node4" href="$classAtom_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="757,5,995,32"/>
+<area shape="rect" id="node5" href="$classAtom_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="760,56,992,83"/>
+<area shape="rect" id="node6" href="$classAtom_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="782,107,970,149"/>
+<area shape="rect" id="node7" href="$classAtom_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="767,173,985,200"/>
+<area shape="rect" id="node8" href="$classAtom_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="772,224,980,251"/>
+<area shape="rect" id="node9" href="$classAtom_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="775,275,977,317"/>
+</map>
