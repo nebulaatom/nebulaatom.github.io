@@ -1,0 +1,10 @@
+<map id="NAF::Extras::SecurityVerification" name="NAF::Extras::SecurityVerification">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,236,159"/>
+<area shape="rect" id="node2" href="$classNAF_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="284,132,487,159"/>
+<area shape="rect" id="node3" href="$classNAF_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="536,5,764,32"/>
+<area shape="rect" id="node4" href="$classNAF_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="539,56,761,83"/>
+<area shape="rect" id="node5" href="$classNAF_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="535,107,765,133"/>
+<area shape="rect" id="node6" href="$classNAF_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="546,157,754,184"/>
+<area shape="rect" id="node7" href="$classNAF_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="551,208,749,235"/>
+<area shape="rect" id="node8" href="$classNAF_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="553,259,747,301"/>
+</map>

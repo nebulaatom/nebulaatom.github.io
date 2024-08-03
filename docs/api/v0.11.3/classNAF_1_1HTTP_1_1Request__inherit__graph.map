@@ -1,0 +1,11 @@
+<map id="NAF::HTTP::Request" name="NAF::HTTP::Request">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,156,159"/>
+<area shape="rect" id="node2" href="$classNAF_1_1HTTP_1_1CommonResponses.html" title=" " alt="" coords="204,132,431,159"/>
+<area shape="rect" id="node3" href="$classNAF_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="479,132,681,159"/>
+<area shape="rect" id="node4" href="$classNAF_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="731,5,959,32"/>
+<area shape="rect" id="node5" href="$classNAF_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="733,56,956,83"/>
+<area shape="rect" id="node6" href="$classNAF_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="729,107,960,133"/>
+<area shape="rect" id="node7" href="$classNAF_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="741,157,949,184"/>
+<area shape="rect" id="node8" href="$classNAF_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="745,208,944,235"/>
+<area shape="rect" id="node9" href="$classNAF_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="748,259,941,301"/>
+</map>

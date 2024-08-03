@@ -1,0 +1,13 @@
+<map id="NAF::Tools::ManageJSON" name="NAF::Tools::ManageJSON">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,187,133"/>
+<area shape="rect" id="node2" href="$classNAF_1_1Functions_1_1Action.html" title=" " alt="" coords="235,81,401,108"/>
+<area shape="rect" id="node4" href="$classNAF_1_1HTTP_1_1Body.html" title=" " alt="" coords="253,132,383,159"/>
+<area shape="rect" id="node3" href="$classNAF_1_1Functions_1_1CacheAction.html" title=" " alt="" coords="449,81,656,108"/>
+<area shape="rect" id="node5" href="$classNAF_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="451,132,654,159"/>
+<area shape="rect" id="node6" href="$classNAF_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="705,5,933,32"/>
+<area shape="rect" id="node7" href="$classNAF_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="708,56,931,83"/>
+<area shape="rect" id="node8" href="$classNAF_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="704,107,935,133"/>
+<area shape="rect" id="node9" href="$classNAF_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="715,157,923,184"/>
+<area shape="rect" id="node10" href="$classNAF_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="720,208,919,235"/>
+<area shape="rect" id="node11" href="$classNAF_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="723,259,916,301"/>
+</map>
