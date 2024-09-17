@@ -1,0 +1,11 @@
+<map id="Atom::HTTP::Body" name="Atom::HTTP::Body">
+<area shape="rect" id="node1" title=" " alt="" coords="244,144,384,171"/>
+<area shape="rect" id="node3" href="$classAtom_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="432,144,644,171"/>
+<area shape="rect" id="node2" href="$classAtom_1_1Tools_1_1ManageJSON.html" title=" " alt="" coords="5,144,196,171"/>
+<area shape="rect" id="node4" href="$classAtom_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="692,5,929,32"/>
+<area shape="rect" id="node5" href="$classAtom_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="695,56,927,83"/>
+<area shape="rect" id="node6" href="$classAtom_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="717,107,905,149"/>
+<area shape="rect" id="node7" href="$classAtom_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="702,173,919,200"/>
+<area shape="rect" id="node8" href="$classAtom_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="707,224,915,251"/>
+<area shape="rect" id="node9" href="$classAtom_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="709,275,912,317"/>
+</map>

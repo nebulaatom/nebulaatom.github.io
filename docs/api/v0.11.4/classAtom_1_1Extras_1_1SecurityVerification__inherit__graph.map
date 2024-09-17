@@ -1,0 +1,10 @@
+<map id="Atom::Extras::SecurityVerification" name="Atom::Extras::SecurityVerification">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,245,171"/>
+<area shape="rect" id="node2" href="$classAtom_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="293,144,505,171"/>
+<area shape="rect" id="node3" href="$classAtom_1_1Handlers_1_1BackendHandler.html" title=" " alt="" coords="553,5,791,32"/>
+<area shape="rect" id="node4" href="$classAtom_1_1Handlers_1_1CustomHandler.html" title=" " alt="" coords="556,56,788,83"/>
+<area shape="rect" id="node5" href="$classAtom_1_1Handlers_1_1FrontendHandler.html" title=" " alt="" coords="578,107,766,149"/>
+<area shape="rect" id="node6" href="$classAtom_1_1Handlers_1_1LoginHandler.html" title=" " alt="" coords="563,173,781,200"/>
+<area shape="rect" id="node7" href="$classAtom_1_1Handlers_1_1NullHandler.html" title=" " alt="" coords="568,224,776,251"/>
+<area shape="rect" id="node8" href="$classAtom_1_1Handlers_1_1WebSocketHandler.html" title=" " alt="" coords="571,275,773,317"/>
+</map>

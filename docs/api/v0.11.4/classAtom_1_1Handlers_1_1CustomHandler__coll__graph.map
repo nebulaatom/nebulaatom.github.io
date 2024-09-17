@@ -1,0 +1,11 @@
+<map id="Atom::Handlers::CustomHandler" name="Atom::Handlers::CustomHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="792,107,1024,133"/>
+<area shape="rect" id="node2" href="$classAtom_1_1Handlers_1_1RootHandler.html" title=" " alt="" coords="532,107,744,133"/>
+<area shape="rect" id="node3" title=" " alt="" coords="284,5,444,32"/>
+<area shape="rect" id="node4" href="$classAtom_1_1HTTP_1_1CommonResponses.html" title=" " alt="" coords="246,56,482,83"/>
+<area shape="rect" id="node5" href="$classAtom_1_1HTTP_1_1Request.html" title=" " alt="" coords="21,56,181,83"/>
+<area shape="rect" id="node6" href="$classAtom_1_1HTTP_1_1Methods.html" title=" " alt="" coords="283,107,445,133"/>
+<area shape="rect" id="node7" href="$classAtom_1_1Extras_1_1SecurityVerification.html" title=" " alt="" coords="244,157,484,184"/>
+<area shape="rect" id="node8" href="$classAtom_1_1HTTP_1_1Body.html" title=" " alt="" coords="294,208,434,235"/>
+<area shape="rect" id="node9" href="$classAtom_1_1Tools_1_1ManageJSON.html" title=" " alt="" coords="5,208,196,235"/>
+</map>
